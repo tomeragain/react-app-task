@@ -3,7 +3,7 @@ This is a React App build it with [Vite](https://vite.dev/), Styling was made wi
 
 This project has a dependency on this other project [laravel-task](https://github.com/tomeragain/laravel-task)
 
-so is !Important
+so is **Important** to have installed and running before the [laravel-task](https://github.com/tomeragain/laravel-task) project
 
 ## setting up the project
 once this Project is cloned and inside project folder next step is install all dependencies
